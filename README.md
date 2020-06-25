@@ -10,4 +10,4 @@ This capstone is part of a more comprehensive project aimed at creating an open 
 -  749 images of Psoriasis
 
 ## Sample Images
-![Eczema] (https://lh6.googleusercontent.com/YoNWyEI6KTBUoFD7e6LviZzuRRNlFyWs8ju-Dcbis1w-SNkIsbBulGiCQUclrDXV518C_qiVfYFPKBJ4MviAscLbvlSKINLeJqbvpuY)
+![Eczema](https://lh6.googleusercontent.com/YoNWyEI6KTBUoFD7e6LviZzuRRNlFyWs8ju-Dcbis1w-SNkIsbBulGiCQUclrDXV518C_qiVfYFPKBJ4MviAscLbvlSKINLeJqbvpuY)
