@@ -10,4 +10,8 @@ This capstone is part of a more comprehensive project aimed at creating an open 
 -  749 images of Psoriasis
 
 ## Sample Images
-![Eczema](https://lh6.googleusercontent.com/YoNWyEI6KTBUoFD7e6LviZzuRRNlFyWs8ju-Dcbis1w-SNkIsbBulGiCQUclrDXV518C_qiVfYFPKBJ4MviAscLbvlSKINLeJqbvpuY)
+<ins>Eczema<ins/>
+<br />  ![Eczema](https://lh6.googleusercontent.com/YoNWyEI6KTBUoFD7e6LviZzuRRNlFyWs8ju-Dcbis1w-SNkIsbBulGiCQUclrDXV518C_qiVfYFPKBJ4MviAscLbvlSKINLeJqbvpuY) ![Eczema1](https://lh6.googleusercontent.com/9iRGbEXtXuXyKJOkdXQGg0sY_3LBDMC7_OHB5XcMQDCy3AK3nV5aHIVjr17JwpZgJV_ZaLa3g8bskvFSl1wrPu9R3skJ_7jxxkT9Ss0)
+ 
+ <ins>Psoriasis<ins/>
+  <br /> ![Psoriasis](https://lh3.googleusercontent.com/oM3CwxACaDAw1XdrrXPRPWfdjcofkC270PI6zmgp9mkfedvZfH1QmmVauJ483RfD5832mXjDWvnbMMrgcu9PECBSPqOH-OaERXyNqBA) ![Psoriasis1](https://lh6.googleusercontent.com/1oKImDBIM71Y6lgQa5VceK0kaEsd5PncOPCTz_mbftyBrQhtdPXJmr3KmR-22D174j_1xgCDqdWznKIS5v6IDAyWPnZTsD_tXLt7t6RfaNzVAGc3mIE54dVAupaMXR8FDXHYL1KAfWo)
