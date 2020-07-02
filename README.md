@@ -11,7 +11,7 @@ This capstone is part of a more comprehensive project aimed at creating an open 
 
 ## Sample Images
 <ins>Eczema<ins/>
-<br />  ![Eczema](https://lh6.googleusercontent.com/YoNWyEI6KTBUoFD7e6LviZzuRRNlFyWs8ju-Dcbis1w-SNkIsbBulGiCQUclrDXV518C_qiVfYFPKBJ4MviAscLbvlSKINLeJqbvpuY) ![Eczema1](https://lh6.googleusercontent.com/9iRGbEXtXuXyKJOkdXQGg0sY_3LBDMC7_OHB5XcMQDCy3AK3nV5aHIVjr17JwpZgJV_ZaLa3g8bskvFSl1wrPu9R3skJ_7jxxkT9Ss0)
+<br />  ![Eczema](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/Eczema_1.jpg) ![Eczema1](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/Eczema_2.jpg)
  
  <ins>Psoriasis<ins/>
-  <br /> ![Psoriasis](https://lh3.googleusercontent.com/oM3CwxACaDAw1XdrrXPRPWfdjcofkC270PI6zmgp9mkfedvZfH1QmmVauJ483RfD5832mXjDWvnbMMrgcu9PECBSPqOH-OaERXyNqBA) ![Psoriasis1](https://lh6.googleusercontent.com/1oKImDBIM71Y6lgQa5VceK0kaEsd5PncOPCTz_mbftyBrQhtdPXJmr3KmR-22D174j_1xgCDqdWznKIS5v6IDAyWPnZTsD_tXLt7t6RfaNzVAGc3mIE54dVAupaMXR8FDXHYL1KAfWo)
+  <br /> ![Psoriasis](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/psoriasis_1.jpg) ![Psoriasis1](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/psoriasis_1.jpg)
