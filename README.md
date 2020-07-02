@@ -1,4 +1,4 @@
-# AI in Dermatology
+# CNN Image Classifier for Eczema and Psoriasis
 
 I have used computer vision and deep learning techniques to build a model for identifying Eczema and Psoriasis from a image dataset featuring diverse levels of skin pigmentation. Eczema and Psoriasis are both extremely prevalent with over 31 million Americans having Eczema and over 7.5 million Americans, living with Psoriasis. While both conditions cause inflammation and itching and can often be visually very similar; their causes and treatments are distinctly different. Psoriasis is the result of an autoimmune dysfunction, causing skin cells to multiply too fast; while the causes of Eczema are more varied, ranging from genetics to conditional factors. 
 
