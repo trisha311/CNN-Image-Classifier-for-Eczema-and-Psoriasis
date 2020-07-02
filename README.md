@@ -14,4 +14,4 @@ This capstone is part of a more comprehensive project aimed at creating an open 
 <br />  ![Eczema](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/Eczema_1.jpg) ![Eczema1](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/Eczema_2.jpg)
  
  <ins>Psoriasis<ins/>
-  <br /> ![Psoriasis](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/psoriasis_1.jpg) ![Psoriasis1](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/psoriasis_1.jpg)
+  <br /> ![Psoriasis](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/psoriasis_1.jpg) ![Psoriasis1](https://github.com/trisha311/CNN-Image-Classifier-for-Eczema-and-Psoriasis/blob/master/Sample%20Images/psoriasis_2.jpg)
